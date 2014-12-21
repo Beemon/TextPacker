@@ -1,0 +1,4 @@
+C:\Users\XNAMP\Desktop\TextPacker\bin\Debug\TextPacker.exe
+C:\Users\XNAMP\Desktop\TextPacker\bin\Debug\TextPacker.pdb
+C:\Users\XNAMP\Desktop\TextPacker\obj\x86\Debug\TextPacker.exe
+C:\Users\XNAMP\Desktop\TextPacker\obj\x86\Debug\TextPacker.pdb
